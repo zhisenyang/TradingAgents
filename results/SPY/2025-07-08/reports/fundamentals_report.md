@@ -1,0 +1,1 @@
+The current attempt to fetch fundamentals for SPY on 2025-07-08 has failed due to an upstream overload. I recommend retrying shortly or delegating to another assistant equipped with alternate tools if repeated attempts do not succeed.
